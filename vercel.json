@@ -11,8 +11,8 @@
     "env": {
         "APP_ENV": "local",
         "APP_DEBUG": "true",
-        "APP_URL": "https://yourproductionurl.com",
-        "APP_KEY": "base64:U4CC9",
+        "APP_URL": "http://127.0.0.1:8000/ekspedisi",
+        "APP_KEY": "base64:U4CC9+xtg52tW90dGBIZKtUqomorNsPrUFgsoBTYSJY=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
